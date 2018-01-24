@@ -9,5 +9,5 @@ function happyHolidaysTo(string) {
 }
 
 function happyHolidaysTo(string, string) {
-  return `Happy holidays, ${string}!`;
+  return `Happy holidays, ${string}, ${string}!`;
 }
